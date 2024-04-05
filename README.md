@@ -1,3 +1,3 @@
-# 73772127142-Devops-Activity-ANSIBLE
+# 73772127142-Devops-Assognment-2
 
-Go to Ansible wiki -> [Let's go](https://github.com/Ronak-Ronu/73772127142-Devops-Assignment-2/wiki/Ansible)
+Go to  wiki -> [Let's go](https://github.com/Ronak-Ronu/73772127142-Devops-Assignment-2/wiki/)
